@@ -4,6 +4,7 @@
 
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@taglib uri="http://www.springframework.org/tags" prefix="s"%>
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="sf"%>
 
 <s:url var="css" value="/resources/css"/>
 <s:url var="images" value="/resources/images"/>

@@ -8,7 +8,7 @@
         <dependent-module archiveName="parascollectionbackend-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/parascollectionbackend/parascollectionbackend">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <property name="context-root" value="parascollection"/>
         <property name="java-output-path" value="/parascollection/target/classes"/>
+        <property name="context-root" value="parascollection"/>
     </wb-module>
 </project-modules>
